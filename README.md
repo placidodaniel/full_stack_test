@@ -1,11 +1,11 @@
-## :vertical_traffic_light: Sobre o desafio
+## :FleetDesk_Full_Stack: Sobre o desafio
 
-Neste desafio você deverá criar, utilizando **React** e **Java** , uma lista de tarefas :scroll:.
+Neste desafio você deverá criar, utilizando **BootStrap** e **PHP/Laravel** , uma lista de tarefas :scroll:.
 
 ## :heavy_check_mark: Requisitos
 
-* Frontend
-  * [ ] Como usuário quero pode ver todas as minhas tarefas.
+* Frontend  
+  * [ ] Como usuário quero pode ver todas as minhas tarefas, por meio do meu login e senha.
   * [ ] Como usuário quero poder identificar quais tarefas ainda não concluí.
   * [ ] Como usuário quero poder ver quais tarefas eu já concluí.
   * [ ] Como usuário quero poder marcar uma tarefa concluída e ter um feedback visual dessa mudança.
@@ -13,8 +13,7 @@ Neste desafio você deverá criar, utilizando **React** e **Java** , uma lista d
   * [ ] Como usuário quero poder alterar a descrição de uma tarefa.
   * [ ] Como usuário quero poder excluir uma tarefa.
   * [ ] Como usuário quero poder ver um relatório das minhas tarefas por status.
-  * [ ] Utilizar **Context API** para controlar o estado da aplicação
-  * [ ] Utilizar **Hooks** para controlar o ciclo de vida dos Components.
+  * [ ] Utilizar Autenticação por meio de um Token JWT.
   
 * Backend
   * [ ] Todas operações do front devem ser suportadas via API :smile:
@@ -32,3 +31,4 @@ Neste desafio você deverá criar, utilizando **React** e **Java** , uma lista d
 * [ ] Componentização
 * [ ] Features 100% funcionais
 * [ ] Design/Layout da aplicação
+* [ ] Testes Unitários é um bônus
